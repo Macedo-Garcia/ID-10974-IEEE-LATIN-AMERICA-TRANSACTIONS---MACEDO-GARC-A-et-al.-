@@ -54,3 +54,18 @@ Finally, the figure identifies the **specific conditions used for simulation-bas
 
 Overall, this representation provides a **configuration and reproducibility guide for the integrated model**, identifying the elements that must be defined before running the simulations and illustrating how the hydraulic, mechanical, electrical, and control variables are interconnected within the LTspice model.
 
+# Interpretation of Physical Quantities Represented in LTspice
+
+It should be noted that LTspice is an electrical circuit simulation environment and, therefore, the variables obtained directly from the simulations are expressed in terms of electrical quantities, primarily voltage and current. In the proposed model, these variables are used as **electrical analogues of the physical quantities associated with the hydraulic and mechanical subsystems**.
+
+For this reason, the simulation results must be interpreted carefully by considering the correspondence established between each electrical variable in the model and the physical quantity it represents. In particular, variables such as angular speed, torque, inertia, friction, hydraulic power, and other mechanical or hydraulic quantities may be represented by equivalent electrical variables within the LTspice circuit.
+
+Consequently, **the values displayed by LTspice should not be directly interpreted as physical electrical quantities of the system in every case**. For each result, the analogy used in the model must first be identified, and the corresponding conversion relationship must be applied before assigning a physical interpretation to the simulated variable. This consideration is particularly important when analyzing transient responses and the order of magnitude of mechanical and hydraulic variables represented through the equivalent circuit.
+
+This approach enables the hydraulic, mechanical, electrical, and power electronic domains to be integrated within a single simulation environment; however, it requires an explicit interpretation of the correspondence between the simulated electrical variables and the physical quantities of the hydrokinetic system.
+
+
+## Citation and contact
+
+Please cite the associated manuscript when using this material. For questions about reproduction, contact the authors through the affiliation above.
+
