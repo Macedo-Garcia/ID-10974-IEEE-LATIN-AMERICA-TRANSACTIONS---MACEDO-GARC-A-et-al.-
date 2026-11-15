@@ -1,4 +1,4 @@
-# ID: 10974 - IEEE LATIN-AMERICA TRANSACTIONS
+# ID: 10974 - IEEE LATIN AMERICA TRANSACTIONS
 
 # A Methodology for the Design and Validation of Hydrokinetic Energy Harvesting Systems for Rural Electrification
 
@@ -32,7 +32,7 @@ The repository contains the elements associated with the models, including schem
 
 These files allow the model structure to be reconstructed, the interconnections between the different subsystems to be established, and the simulations presented in the research work to be reproduced. The symbols are associated with their corresponding models and subcircuits, facilitating their direct integration into LTspice schematics.
 
-# Complementary material 
+# Supplementary Material
 
 **Fig. 1** presents an integrated representation of the main considerations required to configure and reproduce the simulations of the hydrokinetic system developed in LTspice. The figure complements the proposed methodology and provides a combined view of the input variables, dynamic models, operating conditions, energy conversion stages, and criteria used for system evaluation.
 
