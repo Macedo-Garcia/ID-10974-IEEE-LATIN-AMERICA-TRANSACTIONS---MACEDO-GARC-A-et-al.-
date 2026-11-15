@@ -2,11 +2,11 @@
 
 # A Methodology for the Design and Validation of Hydrokinetic Energy Harvesting Systems for Rural Electrification
 
-Authors: 
+### Authors: 
 
 F.S. Macedo-García, D. Mallada-Fernández, A. Fernández-Jiménez, J. Arau, M. Rico-Secades, M. Adam-Medina, and C. Aguilar.
 
-Affiliations:
+### Affiliations:
 
 **National Center for Research and Technological Development (CENIDET), Cuernavaca, Mexico**
 
