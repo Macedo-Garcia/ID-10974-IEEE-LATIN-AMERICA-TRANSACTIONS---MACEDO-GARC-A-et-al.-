@@ -34,7 +34,7 @@ These files allow the model structure to be reconstructed, the interconnections 
 
 # Supplementary Material
 
-**Fig. 1** presents an integrated representation of the main considerations required to configure and reproduce the simulations of the hydrokinetic system developed in LTspice. The figure complements the proposed methodology and provides a combined view of the input variables, dynamic models, operating conditions, energy conversion stages, and criteria used for system evaluation.
+**Fig_1_10974** presents an integrated representation of the main considerations required to configure and reproduce the simulations of the hydrokinetic system developed in LTspice. The figure complements the proposed methodology and provides a combined view of the input variables, dynamic models, operating conditions, energy conversion stages, and criteria used for system evaluation.
 
 First, the **electrical demand of the off-grid rural household** is considered, since the generation system must be evaluated according to the electrical requirements it is intended to supply. For the residential load profile considered, the daily energy demand is 4.366 kWh/day and the critical instantaneous power is 661 W. These two parameters are used for different purposes: the daily energy demand is used to establish the storage requirements, whereas the critical power is used to evaluate the instantaneous capability of the energy conversion system.
 
