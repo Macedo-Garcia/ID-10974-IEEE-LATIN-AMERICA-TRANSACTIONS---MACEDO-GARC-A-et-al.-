@@ -38,11 +38,11 @@ These files allow the model structure to be reconstructed, the interconnections 
 
 Presents an integrated representation of the main considerations required to configure and reproduce the simulations of the hydrokinetic system developed in LTspice. The figure complements the proposed methodology and provides a combined view of the input variables, dynamic models, operating conditions, energy conversion stages, and criteria used for system evaluation.
 
-**Folder "LTSpice Integral Model With Battery**
+**Folder: "LTSpice Integral Model With Battery"**
 
 In this folder, you can find the LTspice integral model of the hydrokinetic energy harvesting system for a turbine operating in a water channel, where you can change the battery voltage value and test different configurations.
 
-**Folder "LTSpice Integral Model WITHOUT Battery"**
+**Folder: "LTSpice Integral Model WITHOUT Battery"**
 
 In this folder, you can find the LTspice integral model of the hydrokinetic energy harvesting system for a turbine operating in a water channel WITHOUT battery.
 
