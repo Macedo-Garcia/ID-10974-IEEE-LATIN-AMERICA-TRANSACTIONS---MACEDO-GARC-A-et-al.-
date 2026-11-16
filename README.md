@@ -46,7 +46,7 @@ In this folder, you can find the LTspice integral model of the hydrokinetic ener
 
 In this folder, you can find the LTspice integral model of the hydrokinetic energy harvesting system for a turbine operating in a water channel WITHOUT battery.
 
-# Steps 
+# Instructions 
 
 First, the **electrical demand of the off-grid rural household** is considered, since the generation system must be evaluated according to the electrical requirements it is intended to supply. For the residential load profile considered, the daily energy demand is 4.366 kWh/day and the critical instantaneous power is 661 W. These two parameters are used for different purposes: the daily energy demand is used to establish the storage requirements, whereas the critical power is used to evaluate the instantaneous capability of the energy conversion system.
 
